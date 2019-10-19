@@ -1,0 +1,17 @@
+{
+  "name": "fe-challenge",
+  "version": "1.0.0",
+  "description": "FE Challenge",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Demetris Savva",
+  "license": "ISC",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
